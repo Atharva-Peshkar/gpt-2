@@ -1,4 +1,7 @@
 **Status:** Archive (code is provided as-is, no updates expected)
+#Text-generator
+
+The 'gpt-2-text_generator.ipynb' file contains the implementation of the text-generator.
 
 # gpt-2
 
